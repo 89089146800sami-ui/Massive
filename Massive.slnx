@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Massive/Massive.vcxproj" Id="92a07b7b-c38b-4692-8552-4dc28cd865dd" />
+</Solution>
